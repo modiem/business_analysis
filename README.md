@@ -1,2 +1,2 @@
-# business_analysis
+# Business Analysis
 Do business analysis using popular data science packages.
